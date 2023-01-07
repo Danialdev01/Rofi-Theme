@@ -1,4 +1,4 @@
-# Danial Rofi-top-Menu:
+# Danial Rofi-theme:
 
 ## Installation :
 
