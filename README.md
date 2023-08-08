@@ -4,7 +4,7 @@
 
 ```sh
 cd .config/rofi
-git clone https://github.com/Danialdev01/Rofi-top-Menu
+git clone https://github.com/Danialdev01/Rofi-top-Menu themes
 rofi-theme-selector
 ```
 find danial theme and press alt + a
