@@ -1,5 +1,10 @@
-# Danial Rofi-theme:
+# Rofi-theme:
 
+## Example
+Top version
+![Alt text](img/example2.png)
+Center version
+![Alt text](img/example1.png)
 ## Installation :
 
 ```sh
